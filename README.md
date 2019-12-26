@@ -1,0 +1,2 @@
+# AffStore
+Affiliate store
